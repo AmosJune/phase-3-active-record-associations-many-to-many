@@ -20,4 +20,4 @@ puts "🌱 Seeding data..."
   end
 end
 
-puts "🌱 Done seeding!"
+puts "🌲 Done seeding!"
